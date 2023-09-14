@@ -1,0 +1,14 @@
+.submit-button{
+    margin-top: 20px;
+    padding: 5px;
+}
+.clearAll-button{
+    margin-left: 20px;
+    padding: 5px;
+}
+.js-message{
+    color: red;
+}
+.js-success-message{
+    color: green;
+}
